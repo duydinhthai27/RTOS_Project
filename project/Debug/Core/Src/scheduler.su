@@ -1,0 +1,6 @@
+scheduler.c:162:6:SCH_Init	4	static
+scheduler.c:167:6:handle_allocating_linked_list	32	static
+scheduler.c:213:6:SCH_Add_Task	32	static
+scheduler.c:230:6:SCH_Update	16	static
+scheduler.c:244:6:SCH_Add_And_Delete_Tasks	16	static
+scheduler.c:252:6:SCH_Dispatch_Tasks	16	static
